@@ -1,0 +1,4 @@
+[submodule "external/klt_feature_tracker"]
+	path = external/klt_feature_tracker
+	url = git@github.com:sritank/klt_feature_tracker.git
+	branch = master
